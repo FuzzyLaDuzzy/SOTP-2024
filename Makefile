@@ -10,3 +10,4 @@ clean:
 	rm -f servidor cliente
 	rm -rf Resultados
 	rm -rf Status
+	rm text
